@@ -1,5 +1,5 @@
 
-### 🧠 6. Brain-Tumor-Detection-Project – [YouTube Demo](https://youtu.be/pFIwBmlm2O4?si=jIH25twk3giePE9b)
+### 🧠 Brain-Tumor-Detection-Project – [YouTube Demo](https://youtu.be/pFIwBmlm2O4?si=jIH25twk3giePE9b)
 
 
 # 🧠 Brain Tumor Detection
